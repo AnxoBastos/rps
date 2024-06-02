@@ -15,7 +15,7 @@ A continuación se explica el funcionamiento de los distintos motores:
 
 ## Contorno de tareas 
 
-Contorno de tareas | Observable| Agentes | Determinista | Episódico | Estático | Discreto | Conocido
+Contorno de tareas | Completamente/ Parcialmente Observable | Agentes | Determinista/ Estocastico | Episódico/ Secuencial  | Estático/ Dinamico | Discreto/ Continuo | Conocido/ Desconocido
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  RPS | Parcialmente | Multiagente | Estocástico | Secuencial | Estático |  Discreto |  Conocido |
 
